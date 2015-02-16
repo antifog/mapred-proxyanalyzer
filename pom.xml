@@ -13,6 +13,7 @@
             <groupId>org.apache.hadoop</groupId>
             <artifactId>hadoop-client</artifactId>
             <version>2.5.2</version>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
@@ -31,6 +32,7 @@
             <groupId>org.apache.pig</groupId>
             <artifactId>pig</artifactId>
             <version>0.14.0</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 
